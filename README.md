@@ -10,3 +10,15 @@
 - An Excel workbook containing data and analysis.
 
 - A PowerPoint deck with your findings.
+
+<strong>Process</strong>
+
+- 
+
+<strong>Key Takeways</strong>
+
+- 
+
+<strong>Unexpected Results</strong>
+
+- 

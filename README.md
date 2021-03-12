@@ -1,5 +1,5 @@
 # Business-Research-Project-Vehicle Fuel Costs
-<strong>Re</strong>
+<strong>Scenario</strong>
 
 - As a consultant for a high-visibility online consumer products review site I am asked to provide data-backed analysis and recommendations around vehicle fuel economy.
 
